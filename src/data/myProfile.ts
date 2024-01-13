@@ -1,7 +1,7 @@
 export const myProfile = {
     contract: [
       { id: 1, name: "Phone", content: "12346789" },
-      { id: 2, name: "Email", content: "web5ngay@gmail.com" },
+      { id: 2, name: "Email", content: "Web5ngay@gmail.com" },
       { id: 3, name: "Address", content: "38 Yen Bai" },
     ],
     expertise: [
