@@ -1,7 +1,7 @@
 export const myProfile = {
     contract: [
-      { id: 1, name: "Phone", content: "09887776665" },
-      { id: 2, name: "Email", content: "youremail@gmail.com" },
+      { id: 1, name: "Phone", content: "12346789" },
+      { id: 2, name: "Email", content: "web5ngay@gmail.com" },
       { id: 3, name: "Address", content: "38 Yen Bai" },
     ],
     expertise: [
@@ -26,8 +26,8 @@ export const myProfile = {
       { id: 2, major: "BACHELOR OF DESIGN", type: "Insitute", time:"2012-2013"},
     ],
     experience:[
-      { id: 1, job: "ENGINEER", company:"Aptech", time:"2013-2014", desc:"As a designer, you will play a crucial role in conceptualizing and creating visual elements that communicate messages effectively and aesthetically."},
-      { id: 2, job: "DESIGNER", company: "Google", time:"2014-2015", desc:"As a designer, you will play a crucial role in conceptualizing and creating visual elements that communicate messages effectively and aesthetically."},
+      { id: 1, job: "ENGINEER", company:"Aptech", time:"2013-2014", desc:"You describe scenario of one-way deployment. I would not add the credentials to avoid any automerging commits. Yes, you will see the problem with this error, but this will mean that someone is poking around production and changes files manually triggering the merge."},
+      { id: 2, job: "DESIGNER", company: "Google", time:"2014-2015", desc:"This will destroy any uncommitted local changes / commits, and will leave your HEAD pointing to a commit (not a branch). But neither of those should be a problem for an app server since you shouldn't be making local changes or committing to that repository."},
     ]
 
     
