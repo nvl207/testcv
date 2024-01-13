@@ -1,0 +1,18 @@
+.attr_container {
+    display: flex;
+    column-gap:  15px;
+    align-items: center;
+}
+
+.attr_item {
+    border: 1px solid gray;
+    padding: 10px 12px;
+    color: gray;
+    cursor: pointer;
+    
+}
+
+.attr_item_actived {
+    color: black;
+    border: 1px solid rgb(25, 9, 9);
+}
